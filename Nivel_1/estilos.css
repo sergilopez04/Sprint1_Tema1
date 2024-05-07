@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 .padre{
+    display: flex;
 }
     .header{
         background: #000;
@@ -32,7 +33,7 @@
         .articulos{
             background: #CDE8E5;
         }
-            .articulo{
+            .article{
                 background: #EEF7FF;
             }
             .navegacion{
