@@ -1,0 +1,52 @@
+*{
+    margin:10px;
+    padding:10px;
+    box-sizing: border-box;
+}
+.padre{
+}
+    .header{
+        background: #000;
+    }
+        .menu{
+            background: #7469B6;
+        }
+            .logo{
+                background: #AD88C6;
+            }
+            .nav{
+                background: #AD88C6;
+            }
+            .social{
+                background: #AD88C6;
+            }
+        .texto-principal{
+            background: #E1AFD1;
+        }
+            h1{
+                background: #FFE6E6;
+            }
+    .section{
+        background: #000;
+    }
+        .articulos{
+            background: #CDE8E5;
+        }
+            .articulo{
+                background: #EEF7FF;
+            }
+            .navegacion{
+                background: #f3f7fb;
+            }
+        .aside{
+            background: #4D869C;
+        }
+            .publicidad{
+                background: #7AB2B2;
+            }
+    .footer{
+        background: #000;
+    }
+        .pie{
+            background: #EEF7FF;
+        }
