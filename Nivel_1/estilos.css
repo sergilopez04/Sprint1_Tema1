@@ -88,7 +88,21 @@
     }
     .aside{
         display: flex;
+        flex-direction: column;
         justify-content: center;
+    }
+    .publicidad{
+       flex-direction: column;
+        /* width: auto%; */
+    }
+    .logo{
+        width: 95%;
+    }
+    .nav{
+        width: 95%;
+    }
+    .social{
+        width: 95%;
     }
 }
 
@@ -100,6 +114,5 @@
 @media all and (max-width: 400px) {
     .aside{
         flex-direction: column;
-        width: 200px;
     }
 }
