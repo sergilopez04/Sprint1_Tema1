@@ -93,7 +93,6 @@
     }
     .publicidad{
        flex-direction: column;
-        /* width: auto%; */
     }
     .logo{
         width: 95%;
